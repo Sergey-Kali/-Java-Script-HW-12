@@ -1,1 +1,1 @@
-# -Java-Script-HW-12
+# homework-6
